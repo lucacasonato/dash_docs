@@ -1,4 +1,4 @@
-import { serve, h, ComponentChildren } from "./sift.js";
+import { serve, h, ComponentChildren } from "https://deno.land/x/sift@0.1.1/mod.js";
 
 serve({
   "/": Home,
